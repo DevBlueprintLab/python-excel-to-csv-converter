@@ -157,3 +157,19 @@ This automation tool can help with:
 - Automating repetitive data transfer tasks
 
 ---
+# 🔮 Future Improvements
+
+- Support batch conversion of multiple Excel files
+- Add CSV encoding options
+- Add automatic worksheet selection
+- Create a graphical user interface (GUI)
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+Developed by **DevBlueprintLab**

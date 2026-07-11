@@ -18,7 +18,7 @@ A Python automation tool that converts Excel worksheets into clean CSV files whi
 </p>
 
 <p align="center">
-  <img src="images/csv-output.png" width="765" alt="Generated CSV file" />
+  <img src="images/csv-output.png" width="600" alt="Generated CSV file" />
 </p>
 
 ---

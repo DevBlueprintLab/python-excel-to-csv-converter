@@ -72,6 +72,7 @@ This tool automates Excel-to-CSV conversion by:
 - **File Handling:** `pathlib`
 
 ---
+
 # 🚀 Quick Start
 
 ## 1. Clone the repository
@@ -125,5 +126,34 @@ Rows exported:
 CSV saved at:
 converted/sales_report.csv
 ```
+
+---
+# 📁 Project Structure
+
+```text
+python-excel-to-csv-converter/
+
+├── excel_to_csv.py              # Main automation script
+├── README.md                    # Project documentation
+├── LICENSE                      # MIT License
+├── requirements.txt             # Project dependencies
+├── sample_data/
+│   └── sales_report.xlsx        # Example Excel input file
+└── images/
+    ├── excel-input.png          # Excel workbook example
+    ├── conversion-process.png   # CLI conversion process
+    └── csv-output.png           # Generated CSV example
+```
+
+---
+
+# 💼 Practical Use Cases
+
+This automation tool can help with:
+
+- Converting Excel reports into CSV format for importing into other systems
+- Preparing spreadsheet data for analysis workflows
+- Exporting specific worksheets from large workbooks
+- Automating repetitive data transfer tasks
 
 ---

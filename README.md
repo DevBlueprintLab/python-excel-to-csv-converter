@@ -41,3 +41,26 @@ This tool automates Excel-to-CSV conversion by:
 - Saving the converted file separately without modifying the original workbook
 
 ---
+
+# ⚡ Core Features
+
+- 📊 **Excel Worksheet Conversion**  
+  Converts selected Excel worksheets into CSV files.
+
+- 📑 **Multi-Sheet Workbook Support**  
+  Allows users to choose which worksheet to export from workbooks containing multiple sheets.
+
+- ✅ **Input Validation**  
+  Checks that the provided Excel file exists before processing.
+
+- 🛡️ **Error Handling**  
+  Detects workbook loading issues and prevents failed conversions.
+
+- 📂 **Organized Output Management**  
+  Automatically creates a `converted` folder and saves generated CSV files separately.
+
+- 📈 **Conversion Summary**  
+  Displays the exported workbook name, selected worksheet, row count, and output location.
+
+---
+

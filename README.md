@@ -23,3 +23,21 @@ A Python automation tool that converts Excel worksheets into clean CSV files whi
 
 ---
 
+# 🎯 Problem
+
+Excel workbooks are commonly used for storing and sharing structured data, but many systems and applications require CSV format instead.
+
+Manually copying worksheet data into CSV files is repetitive and can introduce errors during the conversion process.
+
+---
+
+# ✅ Solution
+
+This tool automates Excel-to-CSV conversion by:
+
+- Loading Excel workbooks
+- Allowing users to choose a worksheet
+- Exporting worksheet data into CSV format
+- Saving the converted file separately without modifying the original workbook
+
+---

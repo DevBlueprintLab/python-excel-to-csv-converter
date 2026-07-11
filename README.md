@@ -72,3 +72,58 @@ This tool automates Excel-to-CSV conversion by:
 - **File Handling:** `pathlib`
 
 ---
+# 🚀 Quick Start
+
+## 1. Clone the repository
+
+```bash
+git clone https://github.com/DevBlueprintLab/python-excel-to-csv-converter.git
+
+cd python-excel-to-csv-converter
+```
+
+## 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## 3. Run the converter
+
+```bash
+python excel_to_csv.py
+```
+
+## 4. Select your Excel file and worksheet
+
+Example:
+
+```text
+========================================
+CSV Converter
+========================================
+
+Enter Excel file path: sales_report.xlsx
+
+Available sheets:['Sales', 'Employees', 'Inventory']
+
+Choose worksheet: Sales
+
+-------------------
+ Conversion completed.
+-------------------
+
+Workbook:
+sales_report.xlsx
+
+Worksheet:
+Sales
+
+Rows exported:
+25
+
+CSV saved at:
+converted/sales_report.csv
+```
+
+---

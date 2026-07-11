@@ -64,3 +64,11 @@ This tool automates Excel-to-CSV conversion by:
 
 ---
 
+# 🛠️ Tech Stack
+
+- **Language:** Python 3.x
+- **Excel Processing:** `openpyxl`
+- **CSV Processing:** Built-in `csv` module
+- **File Handling:** `pathlib`
+
+---
